@@ -309,7 +309,7 @@
     int barIndex = (int)tempBarSet.tag - 1;
     if(barIndex < clArrMainData.count)
     {
-        
+        //ajay
         
         
         NSDictionary *barSet = (NSDictionary*)[clArrMainData objectAtIndex:barIndex];
